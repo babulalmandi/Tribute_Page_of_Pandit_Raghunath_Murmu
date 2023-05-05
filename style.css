@@ -86,7 +86,7 @@ a{
     min-height: 100vh;
     min-width: 95vw;
     align-items: end;
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(images/Raghunath-murmu.webp) no-repeat center center/cover;
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(images/Raghunath-murmu.jpg) no-repeat center center/cover;
     background-size: cover;
     background-position: top;
     /* background-attachment: fixed; */
